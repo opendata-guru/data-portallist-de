@@ -1,0 +1,23 @@
+{
+  "name": "data-portallist-de",
+  "version": "1.0.0",
+  "description": "List of all German open data portals",
+  "main": "daily.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opendata-guru/data-portallist-de.git"
+  },
+  "author": "Thomas Tursics",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opendata-guru/data-portallist-de/issues"
+  },
+  "homepage": "https://github.com/opendata-guru/data-portallist-de#readme"
+}

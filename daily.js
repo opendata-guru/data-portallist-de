@@ -2,6 +2,11 @@
 
 // --------------------------------
 
+const pathDownload = 'downloads';
+const pathDiff = 'diffs';
+
+// --------------------------------
+
 function getFileListing(relativePath, callback) {
 	const path = require('path');
 	const fs = require('fs');
@@ -73,8 +78,6 @@ function saveJSONFile(path, object) {
 		if (err) {
 			throw err
 		}
-
-		console.log('Data written to file ' + path);
 	});
 }
 
@@ -117,11 +120,11 @@ function compareTwoArrays(arrayNewer, arrayOlder) {
 // --------------------------------
 
 function compareFolder(path) {
-	console.log('get dir for ' + path);
+	console.log('  get dir for /' + path + '/');
 
-	const files = getFileListing('downloads/' + path, function(files) {
+	const files = getFileListing(pathDownload + '/' + path, function(files) {
 		if (files.length >= 2) {
-			console.log('load last two files');
+			console.log('  load last two files');
 
 			let path1 = files[0], path2 = files[1];
 			if (path1.indexOf('.DS_Store') !== -1) {
@@ -132,7 +135,7 @@ function compareFolder(path) {
 			}
 
 			readTwoJSONFiles(path1, path2, function(objNewer, objOlder) {
-				console.log('compare 2 files');
+				console.log('  compare 2 files');
 
 				let arrayNewer = getCKANAsArray(objNewer);
 				let arrayOlder = getCKANAsArray(objOlder);
@@ -141,8 +144,52 @@ function compareFolder(path) {
 				delete result.data.equal;
 				delete result.data.difference;
 
-				saveJSONFile('test.json', result);
+				path1 = path1.split('.')[path1.split('.').length - 2];
+				path1 = path1.substr(-10);
+
+				let file = path + '/diff-' + path1 + '.json';
+				console.log('  create file /' + file);
+
+				saveJSONFile(pathDiff + '/' + file, result);
 			});
+		}
+	});
+}
+
+// --------------------------------
+
+function getToday() {
+	var d = new Date();
+
+	return d.getFullYear() + '-' + ('0' + (d.getMonth() + 1)).slice(-2) + '-' + ('0' + d.getDate()).slice(-2);
+}
+
+// --------------------------------
+
+function curlWithCache(uri, path, callback) {
+	const fs = require('fs');
+	const request = require('request');
+
+	fs.access(path, error => {
+		if (!error) {
+			callback(path);
+		} else {
+			console.log('  get uri', uri);
+
+			request(uri, function (error, response, body) {
+				if (!error && response.statusCode === 200) {
+					const buffer = Buffer.from(body, 'utf8');
+					fs.writeFileSync(path, buffer);
+
+					callback(path);
+				} else if (response.statusCode === 500) {
+					console.log('error from ' + uri + ' ', response.statusCode);
+					const buffer = Buffer.from(body, 'utf8');
+					fs.writeFileSync(path, buffer);
+				} else {
+					console.log('error from ' + uri + ' ', response.statusCode);
+				}
+			})
 		}
 	});
 }
@@ -151,4 +198,22 @@ function compareFolder(path) {
 
 console.log('');
 
-compareFolder('de');
+let today = getToday();
+
+curlWithCache('https://ckan.govdata.de/catalog.rdf', 'downloads/de-rdf/govdata-' + today + '.xml', function() {
+//	compareFolder('de-rdf');
+	console.log('Did not parse catalog.rdf from govdata.de');
+});
+curlWithCache('https://ckan.govdata.de/api/3/action/package_list', 'downloads/de/govdata-' + today + '.json', function() {
+	compareFolder('de');
+});
+curlWithCache('https://www.data.gv.at/katalog/api/3/action/package_list', 'downloads/at/data-gv-' + today + '.json', function() {
+	compareFolder('at');
+});
+curlWithCache('http://data.opendataportal.at/api/3/action/package_list', 'downloads/at-odp/opendataportal-' + today + '.json', function() {
+//	compareFolder('at-odp');
+	console.log('Stop parsing opendataportal.at - file is broken');
+});
+curlWithCache('https://opendata.swiss/api/3/action/package_list', 'downloads/ch/swiss-' + today + '.json', function() {
+	compareFolder('ch');
+});
