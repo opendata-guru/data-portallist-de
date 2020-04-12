@@ -120,12 +120,10 @@ function compareTwoArrays(arrayNewer, arrayOlder) {
 // --------------------------------
 
 function compareFolder(path) {
-	console.log('  get dir for /' + path + '/');
+	console.log('  get dir for ' + path);
 
 	const files = getFileListing(pathDownload + '/' + path, function(files) {
 		if (files.length >= 2) {
-			console.log('  load last two files');
-
 			let path1 = files[0], path2 = files[1];
 			if (path1.indexOf('.DS_Store') !== -1) {
 				path1 = files[1];
@@ -135,10 +133,23 @@ function compareFolder(path) {
 			}
 
 			readTwoJSONFiles(path1, path2, function(objNewer, objOlder) {
-				console.log('  compare 2 files');
+				console.log('  get diff for last ' + path + ' files');
 
-				let arrayNewer = getCKANAsArray(objNewer);
-				let arrayOlder = getCKANAsArray(objOlder);
+				let arrayNewer = [];
+				let arrayOlder = [];
+
+				try {
+					arrayNewer = getCKANAsArray(objNewer);
+				} catch(e1) {
+					console.log('error converting CKAN to array', path1);
+					return;
+				}
+				try {
+					arrayOlder = getCKANAsArray(objOlder);
+				} catch(e1) {
+					console.log('error converting CKAN to array', path2);
+					return;
+				}
 				let result = compareTwoArrays(arrayNewer, arrayOlder);
 
 				delete result.data.equal;
@@ -148,7 +159,7 @@ function compareFolder(path) {
 				path1 = path1.substr(-10);
 
 				let file = path + '/diff-' + path1 + '.json';
-				console.log('  create file /' + file);
+				console.log('Write file /' + file);
 
 				saveJSONFile(pathDiff + '/' + file, result);
 			});
@@ -182,6 +193,8 @@ function curlWithCache(uri, path, callback) {
 					fs.writeFileSync(path, buffer);
 
 					callback(path);
+				} else if (!response) {
+					console.log('error from ' + uri + ' - no response');
 				} else if (response.statusCode === 500) {
 					console.log('error from ' + uri + ' ', response.statusCode);
 					const buffer = Buffer.from(body, 'utf8');
@@ -197,6 +210,7 @@ function curlWithCache(uri, path, callback) {
 // --------------------------------
 
 console.log('');
+console.log('Start');
 
 let today = getToday();
 
@@ -211,8 +225,7 @@ curlWithCache('https://www.data.gv.at/katalog/api/3/action/package_list', 'downl
 	compareFolder('at');
 });
 curlWithCache('http://data.opendataportal.at/api/3/action/package_list', 'downloads/at-odp/opendataportal-' + today + '.json', function() {
-//	compareFolder('at-odp');
-	console.log('Stop parsing opendataportal.at - file is broken');
+	compareFolder('at-odp');
 });
 curlWithCache('https://opendata.swiss/api/3/action/package_list', 'downloads/ch/swiss-' + today + '.json', function() {
 	compareFolder('ch');
