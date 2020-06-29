@@ -1,5 +1,5 @@
 portal_title,type,url,begin,nuts,ags,accountable,email,twitter,facebook,hosting,technology,api,dcat_ap_de,last_check
-govdata - Datenportal für Deutschland,country+other,https://www.govdata.de/,,DE,,Christian Horn,info@govdata.de,https://twitter.com/govdata_de,https://www.facebook.com/govdata.de/,SEITENBAU GmbH,CKAN,https://ckan.govdata.de/api/3/action/package_list,https://ckan.govdata.de/catalog.xml,2019-07-29
+govdata - Datenportal für Deutschland,country+other,https://www.govdata.de/,2016-01-17,DE,,Christian Horn,info@govdata.de,https://twitter.com/govdata_de,https://www.facebook.com/govdata.de/,SEITENBAU GmbH,CKAN+Liferay,https://ckan.govdata.de/api/3/action/package_list,https://ckan.govdata.de/catalog.rdf,2019-11-07
 Baustelleninformationssystem des Bundes und der Länder,other,https://www.bast.de/BASt_2017/DE/Fahrzeugtechnik/Fachthemen/Baustelleninformation/baustelleninformation.html,,,,Dr. Lutz Rittershaus,mdm@bast.de,,,Materna Information & Communications SE,Website,,,2019-07-29
 Bundesamt für Kartographie und Geodäsie,other,http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=0&gdz_user_id=0,,,,,,,,Bundesamt für Kartographie und Geodäsie,Website,,,2019-03-09
 Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) - mCLOUD,supreme,https://www.mcloud.de/,2016-05-18,,,Dr. Roland Goetzke,mcloud@bmvi.bund.de,,,ITZBund,InGRID,,https://www.mcloud.de/export/datasets?page=1&pageSize=10000,2019-11-18
@@ -7,11 +7,11 @@ Deutsche Bahn,other,http://data.deutschebahn.com/,,,,,DBOpenData@deutschebahn.co
 Deutscher Wetterdienst,other,https://opendata.dwd.de/,,,,,,,,,Website,,,2019-07-29
 Geobasisdaten und Geodatendienste der Vermessungsverwaltung Baden-Württemberg,other,https://www.lgl-bw.de/lgl-internet/opencms/de/07_Produkte_und_Dienstleistungen/Open_Data_Initiative/,,,,,geodaten@lgl.bwl.de,,,,Website,,,2019-07-29
 OffeneDaten.de,other,https://offenedaten.de/,,,,,info@okfn.de,,,Open Knowledge Foundation Deutschland,CKAN,https://offenedaten.de/api/3/action/package_list,,2019-07-29
-Regionalverband Ruhr - Geodatenshop,other,http://www.geoshop.metropoleruhr.de/public/rvr/Startseite,,,,,info@metropoleruhr.de,,,,Website,,,2019-07-29
+Metropole Ruhr ,other,https://opendata.ruhr/,2019-10-20,,,Lea Pauly,opendata@rvr.ruhr,https://twitter.com/rvr_ruhr,https://www.facebook.com/RVR.Ruhr,,CKAN,https://opendata.ruhr/api/3/action/package_list,https://opendata.ruhr/catalog.rdf,2019-11-04
 Baden-Württemberg,state,http://opendata.service-bw.de,2014-10-08,DE1,,,,,,,,,,
 Karlsruhe,city,https://transparenz.karlsruhe.de/,2016-07-14,DE122,8212000,Sven Klenert,transparenz@karlsruhe.de,,,Stadt Karlsruhe,CKAN,https://transparenz.karlsruhe.de/api/3/action/package_list,,2019-11-12
 Mannheim,city,https://opendata.mannheim.de/,2015-11-24,DE126,8222000,,opendata@mannheim.de,,,OpenDataSoft,OpenDataSoft,https://mannheim.opendatasoft.com/api/v2/catalog/datasets,,2019-07-29
-Freiburg im Breisgau,city,http://opendata.freiburg.de,,DE131,8311000,,statistik@stadt.freiburg.de,,,badenIT GmbH,Website,https://fritz.freiburg.de/duva2ckan/files/,,2019-07-29
+Freiburg im Breisgau,city,http://opendata.freiburg.de,2017-04-01,DE131,8311000,Thomas Willmann,thomas.willmann@stadt.freiburg.de,http://twitter.com/freiburg,http://www.facebook.com/stadtfreiburg,badenIT GmbH,Website,https://fritz.freiburg.de/duva2ckan/files/,,2019-11-05
 Ortenaukreis,district,http://www.ortenaukreis.de/Online-Dienste/Open-Data,,DE134,,,,,,,Website,,,2019-07-30
 Ulm,city,http://daten.ulm.de/,,DE144,8421000,,,,,Wilken Rechenzentrum GmbH,Website,,,2019-07-30
 Bayern,state,http://www.opendata.bayern.de/,,DE2,,,poststelle@stmflh.bayern.de,,,,CKAN,https://opendata.bayern.de/api/1/search/dataset?all_fields=1&q=*:*,,2019-07-31
@@ -27,7 +27,7 @@ Braunschweig,city,http://www.braunschweig.de/leben/stadtplanung_bauen/geoinforma
 Wennigsen (Deister),city,http://data.wennigsen.net/,,DE929020,3241020,Jens Spiwek,jens@spiwi.de,,,,Website,,,2019-08-04
 Landkreis Lüneburg,district,https://open.lklg.net/,2016-08-18,DE935,,Hendrik Lampe,opendata@lklg.de,,,,CKAN,https://open.lklg.net/api/3/action/package_list,,2019-08-04
 Nordrhein-Westfalen,state,https://open.nrw/,,DEA,,Dr. Björn Fleischer,kontakt@open.nrw.de,,,Landesbetrieb Information und Technik Nordrhein-Westfalen (IT.NRW),Drupal,https://ckan.www.open.nrw.de/api/3/action/package_list,https://ckan.www.open.nrw.de/catalog.xml,2019-08-04
-Niederrhein (Region),district,http://offenesdatenportal.de/,2015-04-16,,,,info@krzn.de,,,,CKAN,https://www.offenesdatenportal.de/api/3/action/package_list,,2019-08-04
+Niederrhein (Region),district,http://offenesdatenportal.de/,2015-04-16,,,,info@krzn.de,,,,CKAN,https://www.offenesdatenportal.de/api/3/action/package_list,https://www.offenesdatenportal.de/catalog.rdf,2019-12-19
 Düsseldorf,city,https://opendata.duesseldorf.de/,2017-12-06,DEA11,5111000,,opendata@duesseldorf.de,https://twitter.com/opendataddorf,,Stadt Köln,DKAN,https://opendata.duesseldorf.de/api/3/action/package_list,https://opendata.duesseldorf.de/catalog.xml,2019-07-29
 Krefeld,city,https://www.offenesdatenportal.de/organization/krefeld,2016-01-13,DEA14,5114000,Florian Reykers,florian.reykers@krefeld.de,,,KRZN,CKAN,https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=krefeld,,2019-03-12
 Mönchengladbach,city,http://offenedaten.moenchengladbach.de/,2015-05-11,DEA15,5116000,,offenedaten@moenchengladbach.de,https://twitter.com/OpenDataMG,,Stadt Mönchengladbach,TYPO3,,,2019-03-24
@@ -63,7 +63,7 @@ Bad Münstereifel,city,http://offenedaten.kdvz-frechen.de/group/bad-m%C3%BCnster
 Kall,city,http://offenedaten.kdvz-frechen.de/group/kall,2016-11-08,DEA28024,5366024,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
 Aachen,city,http://offenedaten.aachen.de/,,DEA2D002,5334002,,offenedaten@mail.aachen.de,,,regio iT - gesellschaft für informationstechnologie mbH,CKAN,http://offenedaten.aachen.de/api/3/action/package_list,,2019-08-10
 Gelsenkirchen,city,https://opendata.gelsenkirchen.de/,2017-05-23,DEA32,5513000,Ulrike Karn und Manfred vom Sondern,ulrike.karn@gelsenkirchen.de,,,gkd-el,DKAN,https://opendata.gelsenkirchen.de/api/3/action/package_list,,2019-08-10
-Münster (Westfalen),city,https://www.stadt-muenster.de/open-data.html,,DEA33,5515000,Thomas Werner und Astrid Reich,opendata@citeq.de,,,,Typo3,,,2019-03-12
+Münster (Westfalen),city,https://opendata.stadt-muenster.de/,2019-09,DEA33,5515000,Thomas Werner,opendata@citeq.de,,,citeq,Drupal,https://opendata.stadt-muenster.de/api/3/action/package_list,https://opendata.stadt-muenster.de/catalog.xml,2020-06-29
 Bochum,city,http://www.bochum.de/opendata,,DEA51,5911000,Frau auf'm Kamp und Frau Hartweg und Frau Vidakovic,info@bochum.de ,,,,Website,,,2019-08-10
 Herne,city,https://www.herne.de/Stadt-und-Leben/Stadtfakten/Open-Data/,,DEA55,5916000,,opendata@herne.de,,,,Website,,,2019-08-10
 Arnsberg,city,http://offenedaten.arnsberg.de,,DEA57004,5958004,Elmar Kettler,pressestelle.kettler@arnsberg.de,,,,Website,,,2019-08-10
@@ -96,3 +96,4 @@ Dresden,city,https://opendata.dresden.de,,,,,statistik@dresden.de,,,,DUVA,,,2019
 Hochsauerlandkreis,district,http://www.hochsauerlandkreis.de/buergerservice/bauen_wohnen_kataster/geo_service/OpenData/,,,,,,,,,Website,,,2019-08-11
 Kreis Soest,district,https://www.kreis-soest.de/gis/start/opendata/opendata.php,,,,,,,,,Website,,,2019-08-11
 Essen,city,https://opendata.essen.de/,,,,,opendata@essen.de,,,Stadt Köln,DKAN,https://opendata.essen.de/api/3/action/package_list,https://opendata.essen.de/catalog.xml,2019-10-26
+Konstanz,city,https://offenedaten-konstanz.de/,2019-04-09,DE138,,Eberhard Baier,offenedaten@konstanz.de,,,Stadt Köln,DKAN,https://offenedaten-konstanz.de/api/3/action/package_list,https://offenedaten-konstanz.de/catalog.xml,2020-06-29
