@@ -1,179 +1,216 @@
-portal_title,type,url,begin,nuts,ags,accountable,email,twitter,facebook,hosting,technology,api,dcat_ap_de,last_check
-Aachen,city,http://offenedaten.aachen.de/,,DEA2D002,5334002,,offenedaten@mail.aachen.de,,,regio iT - gesellschaft für informationstechnologie mbH,CKAN,http://offenedaten.aachen.de/api/3/action/package_list,,2019-08-10
-Verbandsgemeinde Altenahr,city,https://daten.rlp.de/organization/verbandsgemeinde_altenahr,,,,,info@altenahr.de,,,,,,,2021-03-03
-Altenberge,city,https://www.o-sp.de/altenberge/opendata,,,,,,,,,,,,2021-03-03
-Altenburg,city,https://www.altenburg.eu/sixcms/detail.php?id=139875,,DEG0M001,16077001,,,,,,Website,,,2019-08-10
-Andernach,city,https://daten.rlp.de/organization/stadt_andernach,,,,,,,,,,,,2021-03-03
-Arnsberg,city,http://offenedaten.arnsberg.de,,DEA57004,5958004,Elmar Kettler,pressestelle.kettler@arnsberg.de,,,,Website,,,2019-08-10
-Attendorn,city,https://www.o-sp.de/attendorn/opendata,,,,,,,,,,,,2021-03-03
-Bad Münstereifel,city,http://offenedaten.kdvz-frechen.de/group/bad-m%C3%BCnstereifel,2016-11-08,DEA28004,5366004,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Bedburg,city,http://offenedaten.kdvz-frechen.de/group/bedburg,2017-04-29,DEA27004,5362004,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Bergheim,city,http://offenedaten.kdvz-frechen.de/group/bergheim,2016-11-08,DEA27008,9185118,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Bergkamen,city,https://www.o-sp.de/bergkamen/opendata,,,,,,,,,,,,2021-03-03
-Bielefeld,city,https://open-data.bielefeld.de/,,DEA41,5711000,,opendata@bielefeld.de,,,Stadt Köln,DKAN,https://open-data.bielefeld.de/api/3/action/package_list,,2019-08-10
-Bochum,city,http://www.bochum.de/opendata,,DEA51,5911000,Frau auf'm Kamp und Frau Hartweg und Frau Vidakovic,info@bochum.de ,,,,Website,,,2019-08-10
-Bönen,city,https://www.o-sp.de/boenen/opendata.php,,,,,,,,,,,,2021-03-03
-Bonn,city,http://opendata.bonn.de/,2014-05-28,DEA22,5314000,Sven Hense,opendata@bonn.de,https://twitter.com/opendatabonn,,Stadt Köln,DKAN,https://opendata.bonn.de/api/3/action/package_list,,2019-07-30
-Bottrop,city,https://www.offenesdatenportal.de/organization/stadt-bottrop,,,,,,,,,,,,2021-03-03
-Braunschweig,city,http://www.braunschweig.de/leben/stadtplanung_bauen/geoinformationen/opengeodata.html,,DE911,3101000,,opengeodata@braunschweig.de,,,,Website,,,2019-08-04
-Brohltal,city,https://daten.rlp.de/organization/vg_brohltal,,,,,,,,,,,,2021-03-03
-Brühl (Rheinland),city,http://offenedaten.kdvz-frechen.de/group/br%C3%BChl,2016-11-08,DEA27012,5362012,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Burgbrohl,city,https://daten.rlp.de/organization/og_burgbrohl,,,,,,,,,,,,2021-03-03
-Chemnitz,city,http://portal-chemnitz.opendata.arcgis.com/,2017-03-07,DED41,14511000,,,,,Amt für Informationsverarbeitung,ArcGIS,,,2019-08-10
-Cochem,city,https://daten.rlp.de/organization/verbandsgemeinde_cochem,,,,,,,,,,,,2021-03-03
-Dedenbach,city,https://daten.rlp.de/organization/og_dedenbach,,,,,,,,,,,,2021-03-03
-Dierdorf,city,https://daten.rlp.de/organization/verbandsgemeinde_dierdorf,,,,,,,,,,,,2021-03-03
-Dormagen,city,https://opendata.dormagen.de,2017-12-07,DEA1D004,5162004,,opendata@stadt-dormagen.de,,,OpenDataSoft,OpenDataSoft,https://opendata.dormagen.de/api/v2/catalog/datasets,,2019-07-29
-Dortmund,city,https://opendata.dortmund.de/,2018-08-23,,5913000,,opendata@dortmund.de,,,,Website,,,2019-08-11
-Dresden,city,https://opendata.dresden.de,,,,,statistik@dresden.de,,,,DUVA,,,2019-08-11
-Duisburg,city,https://opendata-duisburg.de/,2019-03-19,,5112000,,,,,Stadt Köln,DKAN,https://opendata-duisburg.de/api/3/action/package_list,https://opendata-duisburg.de/catalog.xml,2019-07-29
-Dülmen,city,https://www.o-sp.de/duelmen/opendata.php,,,,,,,,,,,,2021-03-03
-Düsseldorf,city,https://opendata.duesseldorf.de/,2017-12-06,DEA11,5111000,,opendata@duesseldorf.de,https://twitter.com/opendataddorf,,Stadt Köln,DKAN,https://opendata.duesseldorf.de/api/3/action/package_list,https://opendata.duesseldorf.de/catalog.xml,2019-07-29
-Eich,city,https://daten.rlp.de/organization/verbandsgemeinde_eich,,,,,,,,,,,,2021-03-03
-Elsdorf (Rheinland),city,http://offenedaten.kdvz-frechen.de/group/elsdorf,2016-11-08,DEA27016,5362016,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Emmelshausen,city,https://daten.rlp.de/organization/verbandsgemeinde_emmelshausen,,,,,,,,,,,,2021-03-03
-Emsdetten,city,https://www.emsdetten.de/bauen-wohnen-umwelt-verkehr/planen/bauleitplanung-online/open-data-im-bereich-bauleitplanung-in-emsdetten/,,,,,,,,,,,,2021-03-03
-Ennigerloh,city,https://www.o-sp.de/ennigerloh/opendata.php,,,,,,,,,,,,2021-03-03
-Erftstadt,city,https://www.o-sp.de/erftstadt/opendata.php,,,,,,,,,,,,2021-03-03
-Erzenhausen,city,https://daten.rlp.de/organization/ortsgemeinde_erzenhausen,,,,,,,,,,,,2021-03-03
-Essen,city,https://opendata.essen.de/,,,,,opendata@essen.de,,,Stadt Köln,DKAN,https://opendata.essen.de/api/3/action/package_list,https://opendata.essen.de/catalog.xml,2019-10-26
-Eulenbis,city,https://daten.rlp.de/organization/ortsgemeinde_eulenbis,,,,,,,,,,,,2021-03-03
-Euskirchen,city,https://www.o-sp.de/euskirchen/opendata.php,,,,,,,,,,,,2021-03-03
-Everswinkel,city,https://www.o-sp.de/everswinkel/opendata,,,,,,,,,,,,2021-03-03
-Frankfurt am Main,city,http://offenedaten.frankfurt.de/,2014-10-15,DE712,6412000,Michael Leist,offene.daten@stadt-frankfurt.de,,,,CKAN,http://offenedaten.frankfurt.de/api/3/action/package_list,,2019-08-04
-Freiburg im Breisgau,city,http://opendata.freiburg.de,2017-04-01,DE131,8311000,Thomas Willmann,thomas.willmann@stadt.freiburg.de,http://twitter.com/freiburg,http://www.facebook.com/stadtfreiburg,badenIT GmbH,Website,https://fritz.freiburg.de/duva2ckan/files/,,2019-11-05
-Galenberg,city,https://daten.rlp.de/organization/ortsgemeinde_galenberg,,,,,,,,,,,,2021-03-03
-Geldern,city,https://www.offenesdatenportal.de/organization/stadt-geldern,,,,,,,,,,,,2021-03-03
-Gelsenkirchen,city,https://opendata.gelsenkirchen.de/,2017-05-23,DEA32,5513000,Ulrike Karn und Manfred vom Sondern,ulrike.karn@gelsenkirchen.de,,,gkd-el,DKAN,https://opendata.gelsenkirchen.de/api/3/action/package_list,,2019-08-10
-Gerolstein,city,https://daten.rlp.de/organization/verbandsgemeinde_gerolstein,,,,,,,,,,,,2021-03-03
-Glees,city,https://daten.rlp.de/organization/ortsgemeinde_glees,,,,,,,,,,,,2021-03-03
-Goch,city,https://www.offenesdatenportal.de/organization/stadt-goch,,,,Torsten Matenaers,pressestelle@goch.de,,,,,,,2021-03-03
-Grafschaft,city,https://daten.rlp.de/organization/gemeinde_grafschaft,,,,,,,,,,,,2021-03-03
-Grevenbroich,city,https://www.o-sp.de/grevenbroich/opendata.php,,,,,,,,,,,,2021-03-03
-Halle (Saale),city,http://opendata.halle.de,,DEE02,15002000,,opendata@halle.de,,,,Website,,,2019-08-10
-Hamm,city,https://daten.rlp.de/organization/verbandsgemeinde_hamm,,,,,,,,,,,,2021-03-03
-Harsewinkel,city,https://www.o-sp.de/harsewinkel/opendata.php,,,,,,,,,,,,2021-03-03
-Hattingen,city,https://www.o-sp.de/hattingen/opendata.php,,,,,,,,,,,,2021-03-03
-Heiligenhaus,city,https://www.o-sp.de/heiligenhaus/opendata,,,,,,,,,,,,2021-03-03
-Heimbach (Eifel),city,http://offenedaten.kdvz-frechen.de/group/heimbach,2016-11-08,DEA26012,5358012,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Herne,city,https://www.herne.de/Stadt-und-Leben/Stadtfakten/Open-Data/,,DEA55,5916000,,opendata@herne.de,,,,Website,,,2019-08-10
-Hohenleimbach,city,https://daten.rlp.de/organization/ortsgemeinde_hohenleimbach,,,,,,,,,,,,2021-03-03
-Holzwickede,city,https://www.holzwickede.de/seite/307793/open-data.html,,,,Frau Koch,opendata@holzwickede.de,,,,,,,2021-03-03
-Hürtgenwald,city,http://offenedaten.kdvz-frechen.de/group/h%C3%BCrtgenwald,2016-11-08,DEA26016,5358016,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Hürth,city,https://www.o-sp.de/huerth/opendata.php,,,,,,,,,,,,2021-03-03
-Jena,city,https://opendata.jena.de/,2016-12-20,DEG03,16053000,,info@jena.de,,,IT-Service - Kommunale Immobilien Jena,CKAN,https://opendata.jena.de/api/3/action/package_list,,2019-08-10
-Jockgrim,city,https://daten.rlp.de/organization/verbandsgemeinde_jockgrim,,,,,,,,,,,,2021-03-03
-Jüchen,city,https://www.o-sp.de/juechen/opendata.php,,,,,,,,,,,,2021-03-03
-Jülich,city,http://offenedaten.kdvz-frechen.de/group/j%C3%BClich,2016-11-08,DEA26024,5358024,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Kaarst,city,https://www.o-sp.de/kaarst/opendata,,,,,,,,,,,,2021-03-03
-Kall,city,http://offenedaten.kdvz-frechen.de/group/kall,2016-11-08,DEA28024,5366024,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Kamen,city,https://www.o-sp.de/kamen/opendata,,,,,,,,,,,,2021-03-03
-Karlsruhe,city,https://transparenz.karlsruhe.de/,2016-07-14,DE122,8212000,Sven Klenert,transparenz@karlsruhe.de,,,Stadt Karlsruhe,CKAN,https://transparenz.karlsruhe.de/api/3/action/package_list,,2019-11-12
-Kastellaun,city,https://daten.rlp.de/organization/verbandsgemeinde_kastellaun,,,,,,,,,,,,2021-03-03
-Kempenich,city,https://daten.rlp.de/organization/ortsgemeinde_kempenich,,,,,,,,,,,,2021-03-03
-Kerpen,city,http://offenedaten.kdvz-frechen.de/group/kerpen,2016-11-08,DEA27032,5362032,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Kiel,city,https://opendata.schleswig-holstein.de/organization/landeshauptstadt-kiel,,,1002000,,,,,Dataport,CKAN,,,2019-08-11
-Kirchberg,city,https://daten.rlp.de/organization/verbandsgemeinde_kirchberg,,,,,,,,,,,,2021-03-03
-Kleve,city,https://www.offenesdatenportal.de/organization/stadt-kleve,,DEA1B036,5154036,,,,,KRZN,CKAN,https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=stadt-kleve,,2019-03-12
-Kollweiler,city,https://daten.rlp.de/organization/ortsgemeinde_kollweiler,,,,,,,,,,,,2021-03-03
-Köln,city,http://offenedaten-koeln.de/,2012,DEA23,5315000,Sabine Möwes,I/D2-Poststelle@stadt-koeln.de,https://twitter.com/OpenDataKoeln,,Stadt Köln,DKAN,https://offenedaten-koeln.de/api/3/action/package_list,https://offenedaten-koeln.de/catalog.xml,2019-11-04
-Königsfeld,city,https://daten.rlp.de/organization/ortsgemeinde_koenigsfeld,,,,,,,,,,,,2021-03-03
-Konstanz,city,https://offenedaten-konstanz.de/,2019-04-09,DE138,,Eberhard Baier,offenedaten@konstanz.de,,,Stadt Köln,DKAN,https://offenedaten-konstanz.de/api/3/action/package_list,https://offenedaten-konstanz.de/catalog.xml,2020-06-29
-Krefeld,city,https://www.offenesdatenportal.de/organization/krefeld,2016-01-13,DEA14,5114000,Florian Reykers,florian.reykers@krefeld.de,,,KRZN,CKAN,https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=krefeld,,2019-03-12
-Kreuzau,city,http://offenedaten.kdvz-frechen.de/group/kreuzau,2016-11-08,DEA26028,5358028,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Landau,city,https://daten.rlp.de/organization/stadt_landau,,,,,,,,,,,,2021-03-03
-Langerwehe,city,http://offenedaten.kdvz-frechen.de/group/langerwehe,2016-11-08,DEA26032,5358032,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Leipzig,city,https://opendata.leipzig.de,,DED51,14713000,,,,,Lecos GmbH,CKAN,https://opendata.leipzig.de/api/3/action/package_list,,2019-08-10
-Lemgo,city,https://www.o-sp.de/lemgo/opendata,,,,,,,,,,,,2021-03-03
-Lengerich,city,https://www.o-sp.de/lengerich/opendata,,,,,,,,,,,,2021-03-03
-Linnich,city,http://offenedaten.kdvz-frechen.de/group/linnich,2016-11-08,DEA26036,5358036,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Lippstadt,city,https://www.o-sp.de/lippstadt/opendata.php,,,,,,,,,,,,2021-03-03
-Lüdenscheid,city,https://www.o-sp.de/luedenscheid/opendata,,,,,,,,,,,,2021-03-03
-Mackenbach,city,https://daten.rlp.de/organization/about/ortsgemeinde_mackenbach,,,,,,,,,,,,2021-03-03
-Magdeburg,city,https://www.magdeburg.de/Start/B%C3%BCrger-Stadt/Verwaltung-Service/Offene-Verwaltungsdaten,,,15003000,,,,,,Website,,,2019-08-11
-Mannheim,city,https://opendata.mannheim.de/,2015-11-24,DE126,8222000,,opendata@mannheim.de,,,OpenDataSoft,OpenDataSoft,https://mannheim.opendatasoft.com/api/v2/catalog/datasets,,2019-07-29
-Mainz,city,https://daten.rlp.de/organization/stadt_mainz,,,,,,,,,,,,2021-03-03
-Mayen,city,https://daten.rlp.de/organization/stadt_mayen,,,,,,,,,,,,2021-03-03
-Meerbusch,city,https://opendata.meerbusch.de/,2017-02-11,DEA1D022,5162022,,opendata@meerbusch.de,https://twitter.com/OpenMeerbusch,,Viderum,CKAN,https://opendata.meerbusch.de/api/3/action/package_list,,2019-03-24
-Meisenheim,city,https://daten.rlp.de/organization/verbandsgemeinde_meisenheim,,,,,,,,,,,,2021-03-03
-Merzenich,city,http://offenedaten.kdvz-frechen.de/group/merzenich,2016-11-08,DEA26040,5358040,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Mittenwalde,city,http://stadt-mittenwalde.opendata.arcgis.com/,,,12073404,,,,,,ArcGIS,,,2019-08-11
-Moers,city,http://offenedaten.moers.de/,2015-08,DEA1F024,5170024,Stephan Bernoth und Thorsten Magerstedt,offenedaten@moers.de,https://twitter.com/opendatamoers,,KRZN,CKAN,https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=moers,,2019-12-18
-Mönchengladbach,city,http://offenedaten.moenchengladbach.de/,2015-05-11,DEA15,5116000,,offenedaten@moenchengladbach.de,https://twitter.com/OpenDataMG,,Stadt Mönchengladbach,TYPO3,,,2019-03-24
-München,city,http://www.opengov-muenchen.de,2014-12-19,DE212,9162000,,data.opengov@muenchen.de,https://twitter.com/opendata_muc,,,CKAN,https://www.opengov-muenchen.de/api/3/action/package_list,,2019-07-31
-Münster (Westfalen),city,https://opendata.stadt-muenster.de/,2019-09,DEA33,5515000,Thomas Werner,opendata@citeq.de,,,citeq,Drupal,https://opendata.stadt-muenster.de/api/3/action/package_list,https://opendata.stadt-muenster.de/catalog.xml,2020-06-29
-Neubrandenburg,city,http://www.neubrandenburg.de/opendata/,,DE802,13071107,,,,,,,,,
-Neuss,city,https://ckan.www.open.nrw.de/organization/neuss,,,,,,,,,,,,2021-03-03
-Niederzier,city,http://offenedaten.kdvz-frechen.de/group/niederzier,,DEA26048,5358048,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Norderstedt,city,https://opendata.schleswig-holstein.de/organization/norderstedt,,,,,,,,Dataport,CKAN,,,2019-08-11
-Nörvenich,city,http://offenedaten.kdvz-frechen.de/group/n%C3%B6rvenich,,DEA26052,5358052,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Obere Kyll,city,https://daten.rlp.de/organization/verbandsgemeinde_obere_kyll,,,,,,,,,,,,2021-03-03
-Oelde,city,https://www.o-sp.de/oelde/opendata.php,,,,,,,,,,,,2021-03-03
-Otterbach-Otterberg,city,https://daten.rlp.de/organization/verbandsgemeinde_otterbach_otterberg,,,,,,,,,,,,2021-03-03
-Potsdam,city,https://opendata.potsdam.de/,2018-01-11,DE404,12054000,Stefanie Buchta,opendata@rathaus.potsdam.de,,,OpenDataSoft,OpenDataSoft,https://opendata.potsdam.de/api/v2/catalog/datasets,,2019-07-31
-Reichenbach-Steegen,city,https://daten.rlp.de/organization/ortsgemeinde_reichenbach_steegen,,,,,,,,,,,,2021-03-03
-Remagen,city,https://daten.rlp.de/organization/stadt_remagen,,,,,,,,,,,,2021-03-03
-Puderbach,city,https://daten.rlp.de/organization/verbandsgemeinde_puderbach,,,,,,,,,,,,2021-03-03
-Remagen,city,https://daten.rlp.de/organization/stadt_remagen,,,,,,,,,,,,2021-03-03
-Rheinböllen,city,https://daten.rlp.de/organization/verbandsgemeinde_rheinboellen,,,,,,,,,,,,2021-03-03
-Rostock,city,http://www.opendata-hro.de/,,DE803,13003000,,opendata.hro@rostock.de,,,,CKAN,https://www.opendata-hro.de/api/3/action/package_list,https://www.opendata-hro.de/catalog.xml,2019-08-04
-Sankt Goar-Oberwesel ,city,https://daten.rlp.de/organization/verbandsgemeinde_sankt_goar___oberwesel,,,,,,,,,,,,2021-03-03
-Schwalmtal,city,https://www.offenesdatenportal.de/organization/gemeinde-schwalmtal,,,,,,,,,,,,2021-03-03
-Schwedelbach,city,https://daten.rlp.de/organization/ortsgemeinde_schwedelbach,,,,,,,,,,,,2021-03-03
-Selters,city,https://daten.rlp.de/organization/verbandsgemeinde_selters,,,,,,,,,,,,2021-03-03
-Siegburg,city,http://offenedaten.kdvz-frechen.de/group/siegburg,,DEA2C060,5382060,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Simmern,city,https://daten.rlp.de/organization/verbandsgemeinde_simmern,,,,,,,,,,,,2021-03-03
-Stadt Mülheim an der Ruhr,city,http://open.muelheim-ruhr.de,2014-12-19,DEA16,5117000,,,https://twitter.com/Muelheim_Ruhr,https://www.facebook.com/MuelheimRuhr,Stadt Mülheim an der Ruhr,DKAN,https://geo.muelheim-ruhr.de/api/3/action/package_list,,2019-11-07
-Thalfang am Erbeskopf,city,https://daten.rlp.de/organization/verbandsgemeinde_thalfang_am_erbeskopf,,,,,,,,,,,,2021-03-03
-Titz,city,http://offenedaten.kdvz-frechen.de/group/titz,2016-11-08,DEA26056,5358056,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Traben-Trabach,city,https://daten.rlp.de/organization/verbandsgemeinde_traben_trabach,,,,,,,,,,,,2021-03-03
-Trier,city,https://daten.rlp.de/organization/stadt_trier,,,,,,,,,,,,2021-03-03
-Ulm,city,http://daten.ulm.de/,,DE144,8421000,,,,,Wilken Rechenzentrum GmbH,Website,,,2019-07-30
-Verbandsgemeinde Sankt Goar-Oberwesel,city,https://daten.rlp.de/organization/verbandsgemeinde_sankt_goar___oberwesel,,,,,,,,,,,,2021-03-03
-Vettweiß,city,http://offenedaten.kdvz-frechen.de/group/vettwei%C3%9F,2016-11-08,DEA26060,5358060,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Viersen,city,https://www.offenesdatenportal.de/organization/stadt-viersen,,,,,,,,,,,,2021-03-03
-Vordereifel,city,https://daten.rlp.de/organization/verbandsgemeinde_vordereifel,,,,,,,,,,,,2021-03-03
-Wachtendonk,city,https://www.offenesdatenportal.de/organization/gemeinde-wachtendonk,,DEA1B060,5154060,,,,,KRZN,CKAN,https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=gemeinde-wachtendonk,,2019-03-12
-Waltrop,city,https://www.o-sp.de/waltrop/opendata,,,,,,,,,,,,2021-03-03
-Wennigsen (Deister),city,http://data.wennigsen.net/,,DE929020,3241020,Jens Spiwek,jens@spiwi.de,,,,Website,,,2019-08-04
-Weilerbach,city,https://daten.rlp.de/organization/ortsgemeinde_weilerbach,,,,,,,,,,,,2021-03-03
-Werne,city,https://www.o-sp.de/werne/opendata,,,,,,,,,,,,2021-03-03
-Wesel,city,http://opendata.wesel.de/,,DEA1F048,5170048,Herr Scholten und Herr Bohm,informationstechnik@wesel.de,,,KRZN,CKAN,https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=stadt-wesel,,2019-03-12
-Wesseling,city,http://offenedaten.kdvz-frechen.de/group/wesseling,2016-11-08,DEA27040,5362040,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Wittlich,city,https://daten.rlp.de/organization/stadt_wittlich,,,,,,,,,,,,2021-03-03
-Wörth,city,https://daten.rlp.de/organization/stadt_woerth,,,,,,,,,,,,2021-03-03
-Wuppertal,city,http://www.offenedaten-wuppertal.de/,2016-09-05,DEA1A,5124000,Dietmar Szlagowski,offenedaten@stadt.wuppertal.de,https://twitter.com/OpenData_Wtal,,Stadt Köln,DKAN,https://www.offenedaten-wuppertal.de/api/3/action/package_list,https://www.offenedaten-wuppertal.de/catalog.xml,2019-11-11
-Berlin,city+state,http://daten.berlin.de/,,DE3,11000000,,,,,BerlinOnline Stadtportal GmbH & Co. KG,CKAN,https://datenregister.berlin.de/api/3/action/package_list,,2019-08-04
-Freie Hansestadt Bremen,city+state,http://daten.bremen.de/,,DE5,,,transparenz@finanzen.bremen.de,,,,Website,,,2019-07-31
-Hamburg,city+state,http://daten.hamburg.de/,2014-10-06,DE6,2000000,Dominik Panić (Fachliche Leitstelle Transparenzportal),transparenzportal@bkm.hamburg.de,,,Staatsarchiv Hamburg,CKAN,http://suche.transparenz.hamburg.de/api/3/action/package_list,http://suche.transparenz.hamburg.de/catalog.xml,2019-11-13
-govdata - Datenportal für Deutschland,country+other,https://www.govdata.de/,2016-01-17,DE,,Christian Horn,info@govdata.de,https://twitter.com/govdata_de,https://www.facebook.com/govdata.de/,SEITENBAU GmbH,CKAN+Liferay,https://ckan.govdata.de/api/3/action/package_list,https://ckan.govdata.de/catalog.rdf,2019-11-07
-Hochsauerlandkreis,district,http://www.hochsauerlandkreis.de/buergerservice/bauen_wohnen_kataster/geo_service/OpenData/,,,,,,,,,Website,,,2019-08-11
-Kreis Euskirchen,district,http://offenedaten.kdvz-frechen.de/group/kreis-euskirchen,2016-11-08,DEA28,,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Kreis Kleve,district,https://www.offenesdatenportal.de/organization/kreis-kleve,,DEA1B,,,,,,KRZN,CKAN,https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=kreis-kleve,,2019-03-12
-Kreis Soest,district,https://www.kreis-soest.de/gis/start/opendata/opendata.php,,,,,,,,,Website,,,2019-08-11
-Kreis Viersen,district,https://www.offenesdatenportal.de/organization/kreis-viersen,2017-01-01,DEA1E, 05166,Michael Stein,michael.stein@kreis-viersen.de,https://twitter.com/kreisviersen,https://www.facebook.com/KreisViersen/,KRZN,CKAN,https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=kreis-viersen,,2019-10-26
-Kreis Wesel,district,https://www.offenesdatenportal.de/organization/kreis-wesel,,,,Patrick Erhart,patrick.erhart@kreis-wesel.de,,,,,,,2021-03-03
-Landkreis Diepholz,district,https://daten.diepholz.de/,,,,,,,,,DKAN,,,2019-07-29
-Landkreis Lüneburg,district,https://open.lklg.net/,2016-08-18,DE935,,Hendrik Lampe,opendata@lklg.de,,,,CKAN,https://open.lklg.net/api/3/action/package_list,,2019-08-04
-Niederrhein (Region),district,http://offenesdatenportal.de/,2015-04-16,,,,info@krzn.de,,,,CKAN,https://www.offenesdatenportal.de/api/3/action/package_list,https://www.offenesdatenportal.de/catalog.rdf,2019-12-19
-Ortenaukreis,district,http://www.ortenaukreis.de/Online-Dienste/Open-Data,,DE134,,,,,,,Website,,,2019-07-30
-Rhein-Kreis Neuss,district,http://opendata.rhein-kreis-neuss.de/,2019-02-12,,,Tobias Schellhorn und Jürgen Brings,digitalisierung@rhein-kreis-neuss.de,,,OpenDataSoft,OpenDataSoft,https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets,,2019-07-29
-Baustelleninformationssystem des Bundes und der Länder,other,https://www.bast.de/BASt_2017/DE/Fahrzeugtechnik/Fachthemen/Baustelleninformation/baustelleninformation.html,,,,Dr. Lutz Rittershaus,mdm@bast.de,,,Materna Information & Communications SE,Website,,,2019-07-29
-Bundesamt für Kartographie und Geodäsie,other,http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=0&gdz_user_id=0,,,,,,,,Bundesamt für Kartographie und Geodäsie,Website,,,2019-03-09
-Bundesamt für Seeschifffahrt und Hydrographie,other,https://www.mcloud.de/web/guest/suche/-/results/searchAgg?_mcloudsearchportlet_aggsChoice=extras.displayContact.name.raw%3A%22Bundesamt+f%C3%BCr+Seeschifffahrt+und+Hydrographie+(BSH)%22,2019-07-13,,,,,,,,,,,2019-07-29
-Deutsche Bahn,other,http://data.deutschebahn.com/,,,,,DBOpenData@deutschebahn.com,https://twitter.com/dbopendata,,,CKAN,https://data.deutschebahn.com/api/3/action/package_list,,2019-03-09
-Deutscher Wetterdienst,other,https://opendata.dwd.de/,,,,,,,,,Website,,,2019-07-29
-Esri Deutschland Open Data Portal,other,https://opendata-esri-de.opendata.arcgis.com/,,,,,,,,,Website,,,2019-08-11
-Geobasisdaten und Geodatendienste der Vermessungsverwaltung Baden-Württemberg,other,https://www.lgl-bw.de/lgl-internet/opencms/de/07_Produkte_und_Dienstleistungen/Open_Data_Initiative/,,,,,geodaten@lgl.bwl.de,,,,Website,,,2019-07-29
-Metropole Ruhr ,other,https://opendata.ruhr/,2019-10-20,,,Lea Pauly,opendata@rvr.ruhr,https://twitter.com/rvr_ruhr,https://www.facebook.com/RVR.Ruhr,,CKAN,https://opendata.ruhr/api/3/action/package_list,https://opendata.ruhr/catalog.rdf,2019-11-04
-Nahverkehrsgesellschaft Baden-Württemberg mbH,other,https://www.nvbw.de/aufgaben/digitale-mobilitaet/open-data/,,,,Dietmar Seifert,opendata@nvbw.de,,,,TYPO3,,,2019-07-29
-OffeneDaten.de,other,https://offenedaten.de/,,,,,info@okfn.de,,,Open Knowledge Foundation Deutschland,CKAN,https://offenedaten.de/api/3/action/package_list,,2019-07-29
-OpenData-Plattform ÖPNV,other,https://www.opendata-oepnv.de/,,,,,opendata-oepnv@vrr.de,,,Verkehrsverbund Rhein-Ruhr AöR,CKAN,https://www.opendata-oepnv.de/api/3/action/package_list,,2019-08-11
-Baden-Württemberg,state,http://opendata.service-bw.de,2014-10-08,DE1,,,,,,,,,,
-Bayern,state,http://www.opendata.bayern.de/,,DE2,,,poststelle@stmflh.bayern.de,,,,CKAN,https://opendata.bayern.de/api/1/search/dataset?all_fields=1&q=*:*,,2019-07-31
-Brandenburg,state,https://datenadler.de/,,,,Frank Schiersner,frank.schiersner@mik.brandenburg.de,,,Inqbus scientific computing,PKAN,,,2019-08-11
-Nordrhein-Westfalen,state,https://open.nrw/,,DEA,,Dr. Björn Fleischer,kontakt@open.nrw.de,,,Landesbetrieb Information und Technik Nordrhein-Westfalen (IT.NRW),Drupal,https://ckan.www.open.nrw.de/api/3/action/package_list,https://ckan.www.open.nrw.de/catalog.xml,2019-08-04
-Rheinland-Pfalz,state,http://daten.rlp.de/,,DEB,,Aylin Akça,referat391@mdi.rlp.de,,,Landesbetrieb Daten und Information,CKAN,https://daten.rlp.de/api/3/action/package_list,https://daten.rlp.de/catalog.xml,2019-08-10
-Sachsen,state,http://www.opendata.sachsen.de/,,DED,,,opendata@sid.sachsen.de,https://twitter.com/OpenDataSachsen,,,Website,,,2019-08-10
-Schleswig-Holstein,state,https://opendata.schleswig-holstein.de/,,,,,opendata@lr.landsh.de,,,Dataport,CKAN,https://opendata.schleswig-holstein.de/api/3/action/package_list,https://opendata.schleswig-holstein.de/catalog.xml,2019-07-29
-Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) - mCLOUD,supreme,https://www.mcloud.de/,2016-05-18,,,Dr. Roland Goetzke,mcloud@bmvi.bund.de,,,ITZBund,InGRID,,https://www.mcloud.de/export/datasets?page=1&pageSize=10000,2019-11-18
+portal_title;type;url;begin;nuts;ags;accountable;email;twitter;facebook;hosting;technology;api;dcat_ap_de;last_check
+Aachen;city;http://offenedaten.aachen.de/;;DEA2D002;5334002;;offenedaten@mail.aachen.de;;;regio iT - gesellschaft für informationstechnologie mbH;CKAN;http://offenedaten.aachen.de/api/3/action/package_list;;2019-08-10
+Altenberge;city;https://www.o-sp.de/altenberge/opendata;;;;;;;;;;;;2021-03-03
+Altenburg;city;https://www.altenburg.eu/sixcms/detail.php?id=139875;;DEG0M001;16077001;;;;;;Website;;;2019-08-10
+Andernach;city;https://daten.rlp.de/organization/stadt_andernach;;;;;;;;;;;;2021-03-03
+Arnsberg;city;http://offenedaten.arnsberg.de;;DEA57004;5958004;Elmar Kettler;pressestelle.kettler@arnsberg.de;;;;Website;;;2019-08-10
+Attendorn;city;https://www.o-sp.de/attendorn/opendata;;;;;;;;;;;;2021-03-03
+Bad Münstereifel;city;http://offenedaten.kdvz-frechen.de/group/bad-m%C3%BCnstereifel;2016-11-08;DEA28004;5366004;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Bedburg;city;http://offenedaten.kdvz-frechen.de/group/bedburg;2017-04-29;DEA27004;5362004;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Bergheim;city;http://offenedaten.kdvz-frechen.de/group/bergheim;2016-11-08;DEA27008;9185118;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Bergkamen;city;https://www.o-sp.de/bergkamen/opendata;;;;;;;;;;;;2021-03-03
+Bielefeld;city;https://open-data.bielefeld.de/;;DEA41;5711000;;opendata@bielefeld.de;;;Stadt Köln;DKAN;https://open-data.bielefeld.de/api/3/action/package_list;;2019-08-10
+Bocholt;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Bochum;city;http://www.bochum.de/opendata;;DEA51;5911000;Frau auf'm Kamp und Frau Hartweg und Frau Vidakovic;info@bochum.de ;;;;Website;;;2019-08-10
+Bönen;city;https://www.o-sp.de/boenen/opendata.php;;;;;;;;;;;;2021-03-03
+Bonn;city;http://opendata.bonn.de/;2014-05-28;DEA22;5314000;Sven Hense;opendata@bonn.de;https://twitter.com/opendatabonn;;Stadt Köln;DKAN;https://opendata.bonn.de/api/3/action/package_list;;2019-07-30
+Bottrop;city;https://www.offenesdatenportal.de/organization/stadt-bottrop;;;;;;;;;;;;2021-03-03
+Braunschweig;city;http://www.braunschweig.de/leben/stadtplanung_bauen/geoinformationen/opengeodata.html;;DE911;3101000;;opengeodata@braunschweig.de;;;;Website;;;2019-08-04
+Brohltal;city;https://daten.rlp.de/organization/vg_brohltal;;;;;;;;;;;;2021-03-03
+Brühl (Rheinland);city;http://offenedaten.kdvz-frechen.de/group/br%C3%BChl;2016-11-08;DEA27012;5362012;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Burgbrohl;city;https://daten.rlp.de/organization/og_burgbrohl;;;;;;;;;;;;2021-03-03
+Chemnitz;city;http://portal-chemnitz.opendata.arcgis.com/;2017-03-07;DED41;14511000;;;;;Amt für Informationsverarbeitung;ArcGIS;;;2019-08-10
+Cochem;city;https://daten.rlp.de/organization/verbandsgemeinde_cochem;;;;;;;;;;;;2021-03-03
+Dedenbach;city;https://daten.rlp.de/organization/og_dedenbach;;;;;;;;;;;;2021-03-03
+Dierdorf;city;https://daten.rlp.de/organization/verbandsgemeinde_dierdorf;;;;;;;;;;;;2021-03-03
+Dormagen;city;https://opendata.dormagen.de;2017-12-07;DEA1D004;5162004;;opendata@stadt-dormagen.de;;;OpenDataSoft;OpenDataSoft;https://opendata.dormagen.de/api/v2/catalog/datasets;;2019-07-29
+Dortmund;city;https://opendata.dortmund.de/;2018-08-23;;5913000;;opendata@dortmund.de;;;;Website;;;2019-08-11
+Dresden;city;https://opendata.dresden.de;;;;;statistik@dresden.de;;;;DUVA;;;2019-08-11
+Duisburg;city;https://opendata-duisburg.de/;2019-03-19;;5112000;;;;;Stadt Köln;DKAN;https://opendata-duisburg.de/api/3/action/package_list;https://opendata-duisburg.de/catalog.xml;2019-07-29
+Dülmen;city;https://www.o-sp.de/duelmen/opendata.php;;;;;;;;;;;;2021-03-03
+Düsseldorf;city;https://opendata.duesseldorf.de/;2017-12-06;DEA11;5111000;;opendata@duesseldorf.de;https://twitter.com/opendataddorf;;Stadt Köln;DKAN;https://opendata.duesseldorf.de/api/3/action/package_list;https://opendata.duesseldorf.de/catalog.xml;2019-07-29
+Eich;city;https://daten.rlp.de/organization/verbandsgemeinde_eich;;;;;;;;;;;;2021-03-03
+Elsdorf (Rheinland);city;http://offenedaten.kdvz-frechen.de/group/elsdorf;2016-11-08;DEA27016;5362016;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Emmelshausen;city;https://daten.rlp.de/organization/verbandsgemeinde_emmelshausen;;;;;;;;;;;;2021-03-03
+Emsdetten;city;https://www.emsdetten.de/bauen-wohnen-umwelt-verkehr/planen/bauleitplanung-online/open-data-im-bereich-bauleitplanung-in-emsdetten/;;;;;;;;;;;;2021-03-03
+Ennigerloh;city;https://www.o-sp.de/ennigerloh/opendata.php;;;;;;;;;;;;2021-03-03
+Erftstadt;city;https://www.o-sp.de/erftstadt/opendata.php;;;;;;;;;;;;2021-03-03
+Erzenhausen;city;https://daten.rlp.de/organization/ortsgemeinde_erzenhausen;;;;;;;;;;;;2021-03-03
+Essen;city;https://opendata.essen.de/;;;;;opendata@essen.de;;;Stadt Köln;DKAN;https://opendata.essen.de/api/3/action/package_list;https://opendata.essen.de/catalog.xml;2019-10-26
+Eulenbis;city;https://daten.rlp.de/organization/ortsgemeinde_eulenbis;;;;;;;;;;;;2021-03-03
+Euskirchen;city;https://www.o-sp.de/euskirchen/opendata.php;;;;;;;;;;;;2021-03-03
+Everswinkel;city;https://www.o-sp.de/everswinkel/opendata;;;;;;;;;;;;2021-03-03
+Frankfurt am Main;city;http://offenedaten.frankfurt.de/;2014-10-15;DE712;6412000;Michael Leist;offene.daten@stadt-frankfurt.de;;;;CKAN;http://offenedaten.frankfurt.de/api/3/action/package_list;;2019-08-04
+Freiburg im Breisgau;city;http://opendata.freiburg.de;2017-04-01;DE131;8311000;Thomas Willmann;thomas.willmann@stadt.freiburg.de;http://twitter.com/freiburg;http://www.facebook.com/stadtfreiburg;badenIT GmbH;Website;https://fritz.freiburg.de/duva2ckan/files/;;2019-11-05
+Galenberg;city;https://daten.rlp.de/organization/ortsgemeinde_galenberg;;;;;;;;;;;;2021-03-03
+Geldern;city;https://www.offenesdatenportal.de/organization/stadt-geldern;;;;;;;;;;;;2021-03-03
+Gelsenkirchen;city;https://opendata.gelsenkirchen.de/;2017-05-23;DEA32;5513000;Ulrike Karn und Manfred vom Sondern;ulrike.karn@gelsenkirchen.de;;;gkd-el;DKAN;https://opendata.gelsenkirchen.de/api/3/action/package_list;;2019-08-10
+Gerolstein;city;https://daten.rlp.de/organization/verbandsgemeinde_gerolstein;;;;;;;;;;;;2021-03-03
+Glees;city;https://daten.rlp.de/organization/ortsgemeinde_glees;;;;;;;;;;;;2021-03-03
+Glückstadt;city;https://opendata.schleswig-holstein.de/organization/glueckstadt;;;;;;;;;;;;2021-03-04
+Goch;city;https://www.offenesdatenportal.de/organization/stadt-goch;;;;Torsten Matenaers;pressestelle@goch.de;;;;;;;2021-03-03
+Grafschaft;city;https://daten.rlp.de/organization/gemeinde_grafschaft;;;;;;;;;;;;2021-03-03
+Grevenbroich;city;https://www.o-sp.de/grevenbroich/opendata.php;;;;;;;;;;;;2021-03-03
+Gronau;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Haan;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Hagen;city;https://opendata.ruhr/organization/hagen;;;;;;;;;;;;2021-03-04
+Halle (Saale);city;http://opendata.halle.de;;DEE02;15002000;;opendata@halle.de;;;;Website;;;2019-08-10
+Hamm;city;https://daten.rlp.de/organization/verbandsgemeinde_hamm;;;;;;;;;;;;2021-03-03
+Harsewinkel;city;https://www.o-sp.de/harsewinkel/opendata.php;;;;;;;;;;;;2021-03-03
+Hattingen;city;https://www.o-sp.de/hattingen/opendata.php;;;;;;;;;;;;2021-03-03
+Heiligenhaus;city;https://www.o-sp.de/heiligenhaus/opendata;;;;;;;;;;;;2021-03-03
+Heimbach (Eifel);city;http://offenedaten.kdvz-frechen.de/group/heimbach;2016-11-08;DEA26012;5358012;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Hennef;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Herne;city;https://opendata.herne.de/;;DEA55;5916000;;opendata@herne.de;;;;GeoNetwork;https://opendata.herne.de/katalogopendata/doc/api/index.html;;2021-03-04
+Hilden;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Hohenleimbach;city;https://daten.rlp.de/organization/ortsgemeinde_hohenleimbach;;;;;;;;;;;;2021-03-03
+Holzwickede;city;https://www.holzwickede.de/seite/307793/open-data.html;;;;Frau Koch;opendata@holzwickede.de;;;;;;;2021-03-03
+Hürtgenwald;city;http://offenedaten.kdvz-frechen.de/group/h%C3%BCrtgenwald;2016-11-08;DEA26016;5358016;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Hürth;city;https://www.o-sp.de/huerth/opendata.php;;;;;;;;;;;;2021-03-03
+Ingolstadt;city;https://www.ingolstadt.de/Service/Weitere-Themen/Open-Data/;;;;;;;;;;;;2021-03-04
+Iserlohn;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Jena;city;https://opendata.jena.de/;2016-12-20;DEG03;16053000;;info@jena.de;;;IT-Service - Kommunale Immobilien Jena;CKAN;https://opendata.jena.de/api/3/action/package_list;;2019-08-10
+Jockgrim;city;https://daten.rlp.de/organization/verbandsgemeinde_jockgrim;;;;;;;;;;;;2021-03-03
+Jüchen;city;https://www.o-sp.de/juechen/opendata.php;;;;;;;;;;;;2021-03-03
+Jülich;city;http://offenedaten.kdvz-frechen.de/group/j%C3%BClich;2016-11-08;DEA26024;5358024;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Kaarst;city;https://www.o-sp.de/kaarst/opendata;;;;;;;;;;;;2021-03-03
+Kall;city;http://offenedaten.kdvz-frechen.de/group/kall;2016-11-08;DEA28024;5366024;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Kamen;city;https://www.o-sp.de/kamen/opendata;;;;;;;;;;;;2021-03-03
+Karlsruhe;city;https://transparenz.karlsruhe.de/;2016-07-14;DE122;8212000;Sven Klenert;transparenz@karlsruhe.de;;;Stadt Karlsruhe;CKAN;https://transparenz.karlsruhe.de/api/3/action/package_list;;2019-11-12
+Kastellaun;city;https://daten.rlp.de/organization/verbandsgemeinde_kastellaun;;;;;;;;;;;;2021-03-03
+Kempenich;city;https://daten.rlp.de/organization/ortsgemeinde_kempenich;;;;;;;;;;;;2021-03-03
+Kerpen;city;http://offenedaten.kdvz-frechen.de/group/kerpen;2016-11-08;DEA27032;5362032;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Kiel;city;https://opendata.schleswig-holstein.de/organization/landeshauptstadt-kiel;;;1002000;;;;;Dataport;CKAN;;;2019-08-11
+Kirchberg;city;https://daten.rlp.de/organization/verbandsgemeinde_kirchberg;;;;;;;;;;;;2021-03-03
+Kleve;city;https://www.offenesdatenportal.de/organization/stadt-kleve;;DEA1B036;5154036;;;;;KRZN;CKAN;https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=stadt-kleve;;2019-03-12
+Kollweiler;city;https://daten.rlp.de/organization/ortsgemeinde_kollweiler;;;;;;;;;;;;2021-03-03
+Köln;city;http://offenedaten-koeln.de/;2012;DEA23;5315000;Sabine Möwes;I/D2-Poststelle@stadt-koeln.de;https://twitter.com/OpenDataKoeln;;Stadt Köln;DKAN;https://offenedaten-koeln.de/api/3/action/package_list;https://offenedaten-koeln.de/catalog.xml;2019-11-04
+Königsfeld;city;https://daten.rlp.de/organization/ortsgemeinde_koenigsfeld;;;;;;;;;;;;2021-03-03
+Konstanz;city;https://offenedaten-konstanz.de/;2019-04-09;DE138;;Eberhard Baier;offenedaten@konstanz.de;;;Stadt Köln;DKAN;https://offenedaten-konstanz.de/api/3/action/package_list;https://offenedaten-konstanz.de/catalog.xml;2020-06-29
+Krefeld;city;https://www.offenesdatenportal.de/organization/krefeld;2016-01-13;DEA14;5114000;Florian Reykers;florian.reykers@krefeld.de;;;KRZN;CKAN;https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=krefeld;;2019-03-12
+Kreuzau;city;http://offenedaten.kdvz-frechen.de/group/kreuzau;2016-11-08;DEA26028;5358028;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Landau;city;https://daten.rlp.de/organization/stadt_landau;;;;;;;;;;;;2021-03-03
+Langerwehe;city;http://offenedaten.kdvz-frechen.de/group/langerwehe;2016-11-08;DEA26032;5358032;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Leipzig;city;https://opendata.leipzig.de;;DED51;14713000;;;;;Lecos GmbH;CKAN;https://opendata.leipzig.de/api/3/action/package_list;;2019-08-10
+Lemgo;city;https://www.o-sp.de/lemgo/opendata;;;;;;;;;;;;2021-03-03
+Lengerich;city;https://www.o-sp.de/lengerich/opendata;;;;;;;;;;;;2021-03-03
+Linnich;city;http://offenedaten.kdvz-frechen.de/group/linnich;2016-11-08;DEA26036;5358036;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Lippstadt;city;https://www.o-sp.de/lippstadt/opendata.php;;;;;;;;;;;;2021-03-03
+Lüdenscheid;city;https://www.o-sp.de/luedenscheid/opendata;;;;;;;;;;;;2021-03-03
+Mackenbach;city;https://daten.rlp.de/organization/about/ortsgemeinde_mackenbach;;;;;;;;;;;;2021-03-03
+Magdeburg;city;https://www.magdeburg.de/Start/B%C3%BCrger-Stadt/Verwaltung-Service/Offene-Verwaltungsdaten;;;15003000;;;;;;Website;;;2019-08-11
+Mainz;city;https://daten.rlp.de/organization/stadt_mainz;;;;;;;;;;;;2021-03-03
+Mannheim;city;https://opendata.mannheim.de/;2015-11-24;DE126;8222000;;opendata@mannheim.de;;;OpenDataSoft;OpenDataSoft;https://mannheim.opendatasoft.com/api/v2/catalog/datasets;;2019-07-29
+Mayen;city;https://daten.rlp.de/organization/stadt_mayen;;;;;;;;;;;;2021-03-03
+Meerbusch;city;https://opendata.meerbusch.de/;2017-02-11;DEA1D022;5162022;;opendata@meerbusch.de;https://twitter.com/OpenMeerbusch;;Viderum;CKAN;https://opendata.meerbusch.de/api/3/action/package_list;;2019-03-24
+Meiningen;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Meisenheim;city;https://daten.rlp.de/organization/verbandsgemeinde_meisenheim;;;;;;;;;;;;2021-03-03
+Menden;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Merzenich;city;http://offenedaten.kdvz-frechen.de/group/merzenich;2016-11-08;DEA26040;5358040;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Minden;city;https://www.minden.de/stadt_minden/de/B%C3%BCrger,%20Service,%20Politik/Offene%20Daten/Datens%C3%A4tze/;;;;;;;;;;;;2021-03-04
+Mittenwalde;city;http://stadt-mittenwalde.opendata.arcgis.com/;;;12073404;;;;;;ArcGIS;;;2019-08-11
+Moers;city;http://offenedaten.moers.de/;2015-08;DEA1F024;5170024;Stephan Bernoth und Thorsten Magerstedt;offenedaten@moers.de;https://twitter.com/opendatamoers;;KRZN;CKAN;https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=moers;;2019-12-18
+Mönchengladbach;city;http://offenedaten.moenchengladbach.de/;2015-05-11;DEA15;5116000;;offenedaten@moenchengladbach.de;https://twitter.com/OpenDataMG;;Stadt Mönchengladbach;TYPO3;;;2019-03-24
+München;city;http://www.opengov-muenchen.de;2014-12-19;DE212;9162000;;data.opengov@muenchen.de;https://twitter.com/opendata_muc;;;CKAN;https://www.opengov-muenchen.de/api/3/action/package_list;;2019-07-31
+Münster (Westfalen);city;https://opendata.stadt-muenster.de/;2019-09;DEA33;5515000;Thomas Werner;opendata@citeq.de;;;citeq;Drupal;https://opendata.stadt-muenster.de/api/3/action/package_list;https://opendata.stadt-muenster.de/catalog.xml;2020-06-29
+Neubrandenburg;city;http://www.neubrandenburg.de/opendata/;;DE802;13071107;;;;;;;;;
+Neuss;city;https://ckan.www.open.nrw.de/organization/neuss;;;;;;;;;;;;2021-03-03
+Niederzier;city;http://offenedaten.kdvz-frechen.de/group/niederzier;;DEA26048;5358048;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Norderstedt;city;https://opendata.schleswig-holstein.de/organization/norderstedt;;;;;;;;Dataport;CKAN;;;2019-08-11
+Nörvenich;city;http://offenedaten.kdvz-frechen.de/group/n%C3%B6rvenich;;DEA26052;5358052;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Obere Kyll;city;https://daten.rlp.de/organization/verbandsgemeinde_obere_kyll;;;;;;;;;;;;2021-03-03
+Oberhausen;city;https://opendata.ruhr/organization/oberhausen;;;;;;;;;;;;2021-03-04
+Oelde;city;https://www.o-sp.de/oelde/opendata.php;;;;;;;;;;;;2021-03-03
+Otterbach-Otterberg;city;https://daten.rlp.de/organization/verbandsgemeinde_otterbach_otterberg;;;;;;;;;;;;2021-03-03
+Potsdam;city;https://opendata.potsdam.de/;2018-01-11;DE404;12054000;Stefanie Buchta;opendata@rathaus.potsdam.de;;;OpenDataSoft;OpenDataSoft;https://opendata.potsdam.de/api/v2/catalog/datasets;;2019-07-31
+Puderbach;city;https://daten.rlp.de/organization/verbandsgemeinde_puderbach;;;;;;;;;;;;2021-03-03
+Recklinghausen;city;https://opendata.ruhr/organization/recklinghausen;;;;;;;;;;;;2021-03-04
+Reichenbach-Steegen;city;https://daten.rlp.de/organization/ortsgemeinde_reichenbach_steegen;;;;;;;;;;;;2021-03-03
+Remagen;city;https://daten.rlp.de/organization/stadt_remagen;;;;;;;;;;;;2021-03-03
+Remscheid;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Rheda-Wiedenbrück;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Rheinböllen;city;https://daten.rlp.de/organization/verbandsgemeinde_rheinboellen;;;;;;;;;;;;2021-03-03
+Roetgen;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Rostock;city;http://www.opendata-hro.de/;;DE803;13003000;;opendata.hro@rostock.de;;;;CKAN;https://www.opendata-hro.de/api/3/action/package_list;https://www.opendata-hro.de/catalog.xml;2019-08-04
+Sankt Goar-Oberwesel ;city;https://daten.rlp.de/organization/verbandsgemeinde_sankt_goar___oberwesel;;;;;;;;;;;;2021-03-03
+Schwalmtal;city;https://www.offenesdatenportal.de/organization/gemeinde-schwalmtal;;;;;;;;;;;;2021-03-03
+Schwedelbach;city;https://daten.rlp.de/organization/ortsgemeinde_schwedelbach;;;;;;;;;;;;2021-03-03
+Selters;city;https://daten.rlp.de/organization/verbandsgemeinde_selters;;;;;;;;;;;;2021-03-03
+Siegburg;city;http://offenedaten.kdvz-frechen.de/group/siegburg;;DEA2C060;5382060;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Siegen;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Simmern;city;https://daten.rlp.de/organization/verbandsgemeinde_simmern;;;;;;;;;;;;2021-03-03
+Stadt Mülheim an der Ruhr;city;http://open.muelheim-ruhr.de;2014-12-19;DEA16;5117000;;;https://twitter.com/Muelheim_Ruhr;https://www.facebook.com/MuelheimRuhr;Stadt Mülheim an der Ruhr;DKAN;https://geo.muelheim-ruhr.de/api/3/action/package_list;;2019-11-07
+Stolberg;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Stuttgart;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Südlohn;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Sulingen;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Thalfang am Erbeskopf;city;https://daten.rlp.de/organization/verbandsgemeinde_thalfang_am_erbeskopf;;;;;;;;;;;;2021-03-03
+Titz;city;http://offenedaten.kdvz-frechen.de/group/titz;2016-11-08;DEA26056;5358056;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Traben-Trabach;city;https://daten.rlp.de/organization/verbandsgemeinde_traben_trabach;;;;;;;;;;;;2021-03-03
+Trier;city;https://daten.rlp.de/organization/stadt_trier;;;;;;;;;;;;2021-03-03
+Troisdorf;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Uder;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Ulm;city;http://daten.ulm.de/;;DE144;8421000;;;;;Wilken Rechenzentrum GmbH;Website;;;2019-07-30
+Verbandsgemeinde Altenahr;city;https://daten.rlp.de/organization/verbandsgemeinde_altenahr;;;;;info@altenahr.de;;;;;;;2021-03-03
+Verbandsgemeinde Sankt Goar-Oberwesel;city;https://daten.rlp.de/organization/verbandsgemeinde_sankt_goar___oberwesel;;;;;;;;;;;;2021-03-03
+Vettweiß;city;http://offenedaten.kdvz-frechen.de/group/vettwei%C3%9F;2016-11-08;DEA26060;5358060;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Viersen;city;https://www.offenesdatenportal.de/organization/stadt-viersen;;;;;;;;;;;;2021-03-03
+Vordereifel;city;https://daten.rlp.de/organization/verbandsgemeinde_vordereifel;;;;;;;;;;;;2021-03-03
+Vreden;city;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Wachtendonk;city;https://www.offenesdatenportal.de/organization/gemeinde-wachtendonk;;DEA1B060;5154060;;;;;KRZN;CKAN;https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=gemeinde-wachtendonk;;2019-03-12
+Waltrop;city;https://www.o-sp.de/waltrop/opendata;;;;;;;;;;;;2021-03-03
+Weilerbach;city;https://daten.rlp.de/organization/ortsgemeinde_weilerbach;;;;;;;;;;;;2021-03-03
+Wennigsen (Deister);city;http://data.wennigsen.net/;;DE929020;3241020;Jens Spiwek;jens@spiwi.de;;;;Website;;;2019-08-04
+Werne;city;https://www.o-sp.de/werne/opendata;;;;;;;;;;;;2021-03-03
+Wesel;city;http://opendata.wesel.de/;;DEA1F048;5170048;Herr Scholten und Herr Bohm;informationstechnik@wesel.de;;;KRZN;CKAN;https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=stadt-wesel;;2019-03-12
+Wesseling;city;http://offenedaten.kdvz-frechen.de/group/wesseling;2016-11-08;DEA27040;5362040;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Wittlich;city;https://daten.rlp.de/organization/stadt_wittlich;;;;;;;;;;;;2021-03-03
+Wörth;city;https://daten.rlp.de/organization/stadt_woerth;;;;;;;;;;;;2021-03-03
+Wuppertal;city;http://www.offenedaten-wuppertal.de/;2016-09-05;DEA1A;5124000;Dietmar Szlagowski;offenedaten@stadt.wuppertal.de;https://twitter.com/OpenData_Wtal;;Stadt Köln;DKAN;https://www.offenedaten-wuppertal.de/api/3/action/package_list;https://www.offenedaten-wuppertal.de/catalog.xml;2019-11-11
+Berlin;city+state;https://daten.berlin.de;2011-09-23;DE3;11000000;Senatsverwaltung für Wirtschaft, Energie und Betriebe;opendata@berlin.de;https://twitter.com/OpenDataBerlin;;BerlinOnline Stadtportal GmbH & Co. KG;CKAN;https://datenregister.berlin.de/api/3/action/package_list;https://datenregister.berlin.de/catalog.ttl;2021-04-21
+Freie Hansestadt Bremen;city+state;http://daten.bremen.de/;;DE5;;;transparenz@finanzen.bremen.de;;;;Website;;;2019-07-31
+Hamburg;city+state;http://daten.hamburg.de/;2014-10-06;DE6;2000000;Dominik Panić (Fachliche Leitstelle Transparenzportal);transparenzportal@bkm.hamburg.de;;;Staatsarchiv Hamburg;CKAN;http://suche.transparenz.hamburg.de/api/3/action/package_list;http://suche.transparenz.hamburg.de/catalog.xml;2019-11-13
+govdata - Datenportal für Deutschland;country+other;https://www.govdata.de/;2016-01-17;DE;;Christian Horn;info@govdata.de;https://twitter.com/govdata_de;https://www.facebook.com/govdata.de/;SEITENBAU GmbH;CKAN+Liferay;https://ckan.govdata.de/api/3/action/package_list;https://ckan.govdata.de/catalog.rdf;2019-11-07
+Hochsauerlandkreis;district;http://www.hochsauerlandkreis.de/buergerservice/bauen_wohnen_kataster/geo_service/OpenData/;;;;;;;;;Website;;;2019-08-11
+Kreis Bautzen;district;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Kreis Euskirchen;district;http://offenedaten.kdvz-frechen.de/group/kreis-euskirchen;2016-11-08;DEA28;;;offene-daten@kdvz-frechen.de;https://twitter.com/OpenDataKDVZ;;Stadt Köln;DKAN;;;2019-08-10
+Kreis Greiz;district;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Kreis Gütersloh;district;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Kreis Kleve;district;https://www.offenesdatenportal.de/organization/kreis-kleve;;DEA1B;;;;;;KRZN;CKAN;https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=kreis-kleve;;2019-03-12
+Kreis Minden-Lübbecke;district;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Kreis Nordfriesland;district;https://opendata.schleswig-holstein.de/organization/nordfriesland;;;;;;;;;;;;2021-03-04
+Kreis Ostholstein;district;https://opendata.schleswig-holstein.de/organization/kreis-ostholstein;;;;;;;;;;;;2021-03-04
+Kreis Pinneberg;district;https://opendata.schleswig-holstein.de/organization/kreis-pinneberg;;;;;;;;;;;;2021-03-04
+Kreis Recklinghausen;district;https://geoserver4.kreis-re.de/geonetwork/;;;;;;;;;GeoNetwork;;;
+Kreis Soest;district;https://www.kreis-soest.de/gis/start/opendata/opendata.php;;;;;;;;;Website;;;2019-08-11
+Kreis Steinfurt;district;https://gis-kreis-steinfurt.opendata.arcgis.com/;2019-06-01;;;Stefan Albers;gdm@kreis-steinfurt.de;;;;ArcGIS;;;2021-03-04
+Kreis Unna;district;https://opendata.ruhr/organization/kreis-unna;;;;;;;;;;;;2021-03-04
+Kreis Viersen;district;https://www.offenesdatenportal.de/organization/kreis-viersen;2017-01-01;DEA1E; 05166;Michael Stein;michael.stein@kreis-viersen.de;https://twitter.com/kreisviersen;https://www.facebook.com/KreisViersen/;KRZN;CKAN;https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=kreis-viersen;;2019-10-26
+Kreis Wesel;district;https://www.offenesdatenportal.de/organization/kreis-wesel;;;;Patrick Erhart;patrick.erhart@kreis-wesel.de;;;;;;;2021-03-03
+Landkreis Cham;district;https://data-lra-cha.opendata.arcgis.com/;;;;;gis@lra.landkreis-cham.de;;;;ArcGIS;;;2021-03-04
+Landkreis Diepholz;district;https://daten.diepholz.de/;;;;;;;;;DKAN;;;2019-07-29
+Landkreis Lüneburg;district;https://open.lklg.net/;2016-08-18;DE935;;Hendrik Lampe;opendata@lklg.de;;;;CKAN;https://open.lklg.net/api/3/action/package_list;;2019-08-04
+Märkischer Kreis;district;via Musterdatenkatalog Deutschland;;;;;;;;;;;;
+Niederrhein (Region);district;http://offenesdatenportal.de/;2015-04-16;;;;info@krzn.de;;;;CKAN;https://www.offenesdatenportal.de/api/3/action/package_list;https://www.offenesdatenportal.de/catalog.rdf;2019-12-19
+Ortenaukreis;district;http://www.ortenaukreis.de/Online-Dienste/Open-Data;;DE134;;;;;;;Website;;;2019-07-30
+Rhein-Kreis Neuss;district;http://opendata.rhein-kreis-neuss.de/;2019-02-12;;;Tobias Schellhorn und Jürgen Brings;digitalisierung@rhein-kreis-neuss.de;;;OpenDataSoft;OpenDataSoft;https://opendata.rhein-kreis-neuss.de/api/v2/catalog/datasets;;2019-07-29
+Baustelleninformationssystem des Bundes und der Länder;other;https://www.bast.de/BASt_2017/DE/Fahrzeugtechnik/Fachthemen/Baustelleninformation/baustelleninformation.html;;;;Dr. Lutz Rittershaus;mdm@bast.de;;;Materna Information & Communications SE;Website;;;2019-07-29
+Bundesamt für Kartographie und Geodäsie;other;http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=0&gdz_user_id=0;;;;;;;;Bundesamt für Kartographie und Geodäsie;Website;;;2019-03-09
+Bundesamt für Seeschifffahrt und Hydrographie;other;https://www.mcloud.de/web/guest/suche/-/results/searchAgg?_mcloudsearchportlet_aggsChoice=extras.displayContact.name.raw%3A%22Bundesamt+f%C3%BCr+Seeschifffahrt+und+Hydrographie+(BSH)%22;2019-07-13;;;;;;;;;;;2019-07-29
+Deutsche Bahn;other;http://data.deutschebahn.com/;;;;;DBOpenData@deutschebahn.com;https://twitter.com/dbopendata;;;CKAN;https://data.deutschebahn.com/api/3/action/package_list;;2019-03-09
+Deutscher Wetterdienst;other;https://opendata.dwd.de/;;;;;;;;;Website;;;2019-07-29
+Esri Deutschland Open Data Portal;other;https://opendata-esri-de.opendata.arcgis.com/;;;;;;;;;Website;;;2019-08-11
+Geobasisdaten und Geodatendienste der Vermessungsverwaltung Baden-Württemberg;other;https://www.lgl-bw.de/lgl-internet/opencms/de/07_Produkte_und_Dienstleistungen/Open_Data_Initiative/;;;;;geodaten@lgl.bwl.de;;;;Website;;;2019-07-29
+Metropole Ruhr ;other;https://opendata.ruhr/;2019-10-20;;;Lea Pauly;opendata@rvr.ruhr;https://twitter.com/rvr_ruhr;https://www.facebook.com/RVR.Ruhr;;CKAN;https://opendata.ruhr/api/3/action/package_list;https://opendata.ruhr/catalog.rdf;2019-11-04
+Nahverkehrsgesellschaft Baden-Württemberg mbH;other;https://www.nvbw.de/aufgaben/digitale-mobilitaet/open-data/;;;;Dietmar Seifert;opendata@nvbw.de;;;;TYPO3;;;2019-07-29
+Nordkirche;other;https://opendata.schleswig-holstein.de/organization/nordkirche;;;;;;;;;;;;2021-03-04
+OffeneDaten.de;other;https://offenedaten.de/;;;;;info@okfn.de;;;Open Knowledge Foundation Deutschland;CKAN;https://offenedaten.de/api/3/action/package_list;;2019-07-29
+OpenData-Plattform ÖPNV;other;https://www.opendata-oepnv.de/;;;;;opendata-oepnv@vrr.de;;;Verkehrsverbund Rhein-Ruhr AöR;CKAN;https://www.opendata-oepnv.de/api/3/action/package_list;;2019-08-11
+Baden-Württemberg;state;http://opendata.service-bw.de;2014-10-08;DE1;;;;;;;;;;
+Bayern;state;http://www.opendata.bayern.de/;;DE2;;;poststelle@stmflh.bayern.de;;;;CKAN;https://opendata.bayern.de/api/1/search/dataset?all_fields=1&q=*:*;;2019-07-31
+Brandenburg;state;https://datenadler.de/;;;;Frank Schiersner;frank.schiersner@mik.brandenburg.de;;;Inqbus scientific computing;PKAN;;;2019-08-11
+Nordrhein-Westfalen;state;https://open.nrw/;;DEA;;Dr. Björn Fleischer;kontakt@open.nrw.de;;;Landesbetrieb Information und Technik Nordrhein-Westfalen (IT.NRW);Drupal;https://ckan.www.open.nrw.de/api/3/action/package_list;https://ckan.www.open.nrw.de/catalog.xml;2019-08-04
+Rheinland-Pfalz;state;http://daten.rlp.de/;;DEB;;Aylin Akça;referat391@mdi.rlp.de;;;Landesbetrieb Daten und Information;CKAN;https://daten.rlp.de/api/3/action/package_list;https://daten.rlp.de/catalog.xml;2019-08-10
+Sachsen;state;http://www.opendata.sachsen.de/;;DED;;;opendata@sid.sachsen.de;https://twitter.com/OpenDataSachsen;;;Website;;;2019-08-10
+Schleswig-Holstein;state;https://opendata.schleswig-holstein.de/;;;;;opendata@lr.landsh.de;;;Dataport;CKAN;https://opendata.schleswig-holstein.de/api/3/action/package_list;https://opendata.schleswig-holstein.de/catalog.xml;2019-07-29
+Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) - mCLOUD;supreme;https://www.mcloud.de/;2016-05-18;;;Dr. Roland Goetzke;mcloud@bmvi.bund.de;;;ITZBund;InGRID;;https://www.mcloud.de/export/datasets?page=1&pageSize=10000;2019-11-18
