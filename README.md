@@ -2,28 +2,13 @@
 
 This repository collects and generates a list of all #OpenData portals in Germany.
 
-This repository is the **data** template for [opendata.guru](https://opendata.guru).
-Clone this repro if you want to contribute and provide a new dataset.
-Every dataset needs it's own github reprository,
-
-## First steps
-
-[ ]  clone this repository in the ```opendata-guru``` github group
-[ ]  name the project with prefixes **data-**
-[ ]  check the license file (currently MIT)
-[ ]  modify this README and add a propper project description
-[ ]  run ```npm install```
-
-
 ## Contribute
 
-**Update the list**
+If you have a mac and Numbers: Please edit `source/opendataportals.numbers` and export it to `dist/opendataportals.csv`. Convert all `;` to `,` (2 strings must be escaped with `"`).
 
-* To Do
+If you don't have a mac or Numbers: It's OK to edit the file `dist/opendataportals.csv`.
 
-**add new city**
-
-* To Do
+GitHub loves `,` in CSV files and show a preview of the file.
 
 ## To Do
 
@@ -38,3 +23,4 @@ Every dataset needs it's own github reprository,
 * add an export script for .geojson
 * add an upload script to CKAN instance
 
+(CKAN loves ';')
