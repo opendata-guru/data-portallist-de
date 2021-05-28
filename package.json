@@ -2,12 +2,17 @@
   "name": "data-portallist-de",
   "version": "1.0.0",
   "description": "List of all German open data portals",
-  "main": "daily.js",
+  "main": "scripts/daily.js",
   "dependencies": {
     "request": "^2.88.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "d3": "^6.7.0",
+    "node-fetch-polyfill": "^2.0.6",
+    "topojson-client": "^3.1.0"
+  },
   "scripts": {
+    "create-geojson": "node script/create-geojson.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
