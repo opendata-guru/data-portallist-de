@@ -22,13 +22,27 @@ d3.json(geodata).then(geoData => {
     console.log('Loading portal list...')
     d3.csv(portallist, portal => {
 
+        let matchRS = false;
+        let matchTitle = '';
         world.forEach(feature => {
 
-            if (portal.ags === feature.properties.AGS) {
+            if (portal.rs === feature.properties.RS) {
                 feature.properties = portal;
+                matchRS = true;
+            }
+            if (portal.portal_title === feature.properties.GEN) {
+                matchTitle = `  - ${feature.properties.GEN}, ${feature.properties.BEZ}, ${feature.properties.destatis.population} citizen, AGS: ${feature.properties.AGS}, RS: ${feature.properties.RS}`;
             }
         });
 
+        if (!matchRS) {
+
+            if (matchTitle === '') {
+                console.log(`  - ${portal.portal_title} not found`);
+            } else {
+                console.log(matchTitle);
+            }
+        }
     }).then(data => {
 
         const smallWorld = world.filter(feature => feature.properties.portal_title !== undefined);
