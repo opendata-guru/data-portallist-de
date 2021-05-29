@@ -9,12 +9,24 @@ if (typeof fetch !== 'function') {
 
 // --------------------------------
 
-const geodata = 'https://github.com/opendata-guru/data-portallist-de/raw/master/source/gemeinden_simplify200.geojson';
+const geodata = './source/gemeinden_simplify200.geojson';
 const portallist = 'https://github.com/opendata-guru/data-portallist-de/raw/master/dist/opendataportals.csv';
 const geoPortalList = 'dist/opendataportals.geojson';
 
-console.log('Loading geojson file...')
-d3.json(geodata).then(geoData => {
+function readJSON(filePath) {
+    return new Promise(function(resolve, reject) {
+        fs.readFile(filePath, (err, data) => {
+            if (err) {
+                reject(Error(err));
+            }
+
+            resolve(JSON.parse(data));
+        });
+    });
+}
+
+console.log('Loading geojson file...');
+readJSON(geodata).then(geoData => {
 
     var world = geoData.features;
     console.log(`  ${world.length} municipals loaded`)
