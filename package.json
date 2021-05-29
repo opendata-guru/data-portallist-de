@@ -12,7 +12,7 @@
     "topojson-client": "^3.1.0"
   },
   "scripts": {
-    "create-geojson": "node script/create-geojson.js",
+    "create-geojson": "node scripts/create-geojson.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

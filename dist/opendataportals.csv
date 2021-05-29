@@ -61,7 +61,7 @@ Hattingen,city,https://www.o-sp.de/hattingen/opendata.php,,DEA56,05954016,059540
 Heilbronn,city,https://opendata.heilbronn.de,2020-12-20,DE117,08121000,081210000000,Thomas Laue,opendata@heilbronn.de,,,Stadt Köln,DKAN,https://opendata.heilbronn.de/api/3/action/package_list,https://opendata.heilbronn.de/catalog.xml,2021-05-13
 Heiligenhaus,city,https://www.o-sp.de/heiligenhaus/opendata,,DEA1C,05158012,051580012012,,,,,,,,,2021-03-03
 Heimbach (Eifel),city,http://offenedaten.kdvz-frechen.de/group/heimbach,2016-11-08,,,,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
-Hennef,city,via Musterdatenkatalog Deutschland,,,,,,,,,,,,,
+Hennef,city,via Musterdatenkatalog Deutschland,,DEA2C,05382020,053820020020,,,,,,,,,
 Herne,city,https://opendata.herne.de/,,DEA55,05916000,059160000000,,opendata@herne.de,,,,GeoNetwork,https://opendata.herne.de/katalogopendata/doc/api/index.html,,2021-03-04
 Hilden,city,via Musterdatenkatalog Deutschland,,DEA1C,05158016,051580016016,,,,,,,,,
 Hohenleimbach,city,https://daten.rlp.de/organization/ortsgemeinde_hohenleimbach,,DEB12,07131206,071315004206,,,,,,,,,2021-03-03
@@ -113,7 +113,7 @@ Mittenwalde,city,http://stadt-mittenwalde.opendata.arcgis.com/,,DE40I,12073404,1
 Moers,city,http://offenedaten.moers.de/,2015-08,DEA1F,05170024,051700024024,Stephan Bernoth und Thorsten Magerstedt,offenedaten@moers.de,https://twitter.com/opendatamoers,,KRZN,CKAN,https://www.offenesdatenportal.de/api/3/action/organization_activity_list?id=moers,,2019-12-18
 Mönchengladbach,city,http://offenedaten.moenchengladbach.de/,2015-05-11,DEA15,05116000,051160000000,,offenedaten@moenchengladbach.de,https://twitter.com/OpenDataMG,,Stadt Mönchengladbach,TYPO3,,,2019-03-24
 München,city,http://www.opengov-muenchen.de,2014-12-19,DE212,09162000,091620000000,,data.opengov@muenchen.de,https://twitter.com/opendata_muc,,,CKAN,https://www.opengov-muenchen.de/api/3/action/package_list,,2019-07-31
-Münster (Westfalen),city,https://opendata.stadt-muenster.de/,2019-09,,,,Thomas Werner,opendata@citeq.de,,,citeq,Drupal,https://opendata.stadt-muenster.de/api/3/action/package_list,https://opendata.stadt-muenster.de/catalog.xml,2020-06-29
+Münster (Westfalen),city,https://opendata.stadt-muenster.de/,2019-09,DEA33,05515000,055150000000,Thomas Werner,opendata@citeq.de,,,citeq,Drupal,https://opendata.stadt-muenster.de/api/3/action/package_list,https://opendata.stadt-muenster.de/catalog.xml,2020-06-29
 Neubrandenburg,city,http://www.neubrandenburg.de/opendata/,,DE80J,13071107,130710107107,,,,,,,,,
 Neuss,city,https://ckan.www.open.nrw.de/organization/neuss,,DEA1D,05162024,051620024024,,,,,,,,,2021-03-03
 Niederzier,city,http://offenedaten.kdvz-frechen.de/group/niederzier,,DEA26,05358048,053580048048,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
@@ -140,7 +140,7 @@ Selters,city,https://daten.rlp.de/organization/verbandsgemeinde_selters,,,,,,,,,
 Siegburg,city,http://offenedaten.kdvz-frechen.de/group/siegburg,,DEA2C,05382060,053820060060,,offene-daten@kdvz-frechen.de,https://twitter.com/OpenDataKDVZ,,Stadt Köln,DKAN,,,2019-08-10
 Siegen,city,via Musterdatenkatalog Deutschland,,DEA5A,05970040,059700040040,,,,,,,,,
 Simmern,city,https://daten.rlp.de/organization/verbandsgemeinde_simmern,,DEB1B,07143071,071435004071,,,,,,,,,2021-03-03
-Stadt Mülheim an der Ruhr,city,http://open.muelheim-ruhr.de,2014-12-19,,,,,,https://twitter.com/Muelheim_Ruhr,https://www.facebook.com/MuelheimRuhr,Stadt Mülheim an der Ruhr,DKAN,https://geo.muelheim-ruhr.de/api/3/action/package_list,,2019-11-07
+Stadt Mülheim an der Ruhr,city,http://open.muelheim-ruhr.de,2014-12-19,DEA16,05117000,051170000000,,,https://twitter.com/Muelheim_Ruhr,https://www.facebook.com/MuelheimRuhr,Stadt Mülheim an der Ruhr,DKAN,https://geo.muelheim-ruhr.de/api/3/action/package_list,,2019-11-07
 Stolberg,city,via Musterdatenkatalog Deutschland,,,,,,,,,,,,,
 Stuttgart,city,via Musterdatenkatalog Deutschland,,DE111,08111000,081110000000,,,,,,,,,
 Südlohn,city,via Musterdatenkatalog Deutschland,,DEA34,05554060,055540060060,,,,,,,,,
@@ -169,7 +169,7 @@ Wittlich,city,https://daten.rlp.de/organization/stadt_wittlich,,DEB22,07231134,0
 Wörth,city,https://daten.rlp.de/organization/stadt_woerth,,DE21A,09177144,091775121144,,,,,,,,,2021-03-03
 Wuppertal,city,http://www.offenedaten-wuppertal.de/,2016-09-05,DEA1A,05124000,051240000000,Dietmar Szlagowski,offenedaten@stadt.wuppertal.de,https://twitter.com/OpenData_Wtal,,Stadt Köln,DKAN,https://www.offenedaten-wuppertal.de/api/3/action/package_list,https://www.offenedaten-wuppertal.de/catalog.xml,2019-11-11
 Berlin,city+state,https://daten.berlin.de,2011-09-23,DE300,11000000,110000000000,"Senatsverwaltung für Wirtschaft, Energie und Betriebe",opendata@berlin.de,https://twitter.com/OpenDataBerlin,,BerlinOnline Stadtportal GmbH & Co. KG,CKAN,https://datenregister.berlin.de/api/3/action/package_list,https://datenregister.berlin.de/catalog.ttl,2021-04-21
-Freie Hansestadt Bremen,city+state,http://daten.bremen.de/,,,,,,transparenz@finanzen.bremen.de,,,,Website,,,2019-07-31
+Freie Hansestadt Bremen,city+state,http://daten.bremen.de/,,DE501,04011000,040110000000,,transparenz@finanzen.bremen.de,,,,Website,,,2019-07-31
 Hamburg,city+state,http://daten.hamburg.de/,2014-10-06,DE600,02000000,020000000000,Dominik Panić (Fachliche Leitstelle Transparenzportal),transparenzportal@bkm.hamburg.de,,,Staatsarchiv Hamburg,CKAN,http://suche.transparenz.hamburg.de/api/3/action/package_list,http://suche.transparenz.hamburg.de/catalog.xml,2019-11-13
 govdata - Datenportal für Deutschland,country+other,https://www.govdata.de/,2016-01-17,DE,,,Christian Horn,info@govdata.de,https://twitter.com/govdata_de,https://www.facebook.com/govdata.de/,SEITENBAU GmbH,CKAN+Liferay,https://ckan.govdata.de/api/3/action/package_list,https://ckan.govdata.de/catalog.rdf,2019-11-07
 Hochsauerlandkreis,district,http://www.hochsauerlandkreis.de/buergerservice/bauen_wohnen_kataster/geo_service/OpenData/,,,,,,,,,,Website,,,2019-08-11

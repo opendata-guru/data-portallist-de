@@ -24,21 +24,35 @@ d3.json(geodata).then(geoData => {
 
         let matchRS = false;
         let matchTitle = '';
+        let subTitle = '';
         world.forEach(feature => {
 
             if (portal.rs === feature.properties.RS) {
                 feature.properties = portal;
                 matchRS = true;
-            }
-            if (portal.portal_title === feature.properties.GEN) {
-                matchTitle = `  - ${feature.properties.GEN}, ${feature.properties.BEZ}, ${feature.properties.destatis.population} citizen, AGS: ${feature.properties.AGS}, RS: ${feature.properties.RS}`;
+            } else if (portal.portal_title === feature.properties.GEN) {
+                matchTitle = `  - ${feature.properties.GEN}, ${feature.properties.BEZ}, ${feature.properties.destatis.population} citizen, NUTS: ${feature.properties.NUTS}, AGS: ${feature.properties.AGS}, RS: ${feature.properties.RS}`;
+            } else if (portal.portal_title && (-1 < portal.portal_title.indexOf(feature.properties.GEN))) {
+                if (subTitle === '') {
+                    subTitle = `${portal.portal_title} may be:`;
+                }
+                subTitle += `\n    ${feature.properties.GEN}, ${feature.properties.BEZ}, ${feature.properties.destatis.population} citizen, NUTS: ${feature.properties.NUTS}, AGS: ${feature.properties.AGS}, RS: ${feature.properties.RS}`;
+            } else if (feature.properties.GEN && (-1 < feature.properties.GEN.indexOf(portal.portal_title))) {
+                if (subTitle === '') {
+                    subTitle = `${portal.portal_title} may be:`;
+                }
+                subTitle += `\n    ${feature.properties.GEN}, ${feature.properties.BEZ}, NUTS: ${feature.properties.NUTS}, AGS: ${feature.properties.AGS}, RS: ${feature.properties.RS}`;
             }
         });
 
         if (!matchRS) {
 
             if (matchTitle === '') {
-                console.log(`  - ${portal.portal_title} not found`);
+                if (subTitle === '') {
+                    console.log(`  - ${portal.portal_title} not found`);
+                } else {
+                    console.log(`  - ${subTitle}`);
+                }
             } else {
                 console.log(matchTitle);
             }
